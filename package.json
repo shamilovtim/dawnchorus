@@ -1,0 +1,21 @@
+{
+  "name": "dawnchorus",
+  "displayName": "Dawn Chorus Color Theme",
+  "description": "Dawn Chorus Color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dawn Chorus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dawnchorus-color-theme.json"
+      }
+    ]
+  }
+}
