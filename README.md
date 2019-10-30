@@ -34,7 +34,7 @@ Pretty pastels. A relaxing break from Monokai. Inspired by one of my favorite ar
 
 ## Status
 
-Project is but is known to work correctly with Javascript, Typescript JSX and TSX. Not fully developed for other languages and will revert to Monokai where necessary.
+Project is known to work correctly with Javascript, Typescript JSX and TSX. Not fully developed for other languages and will revert to Monokai where necessary.
 
 ## Development
 
