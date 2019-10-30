@@ -4,6 +4,10 @@
   "description": "Dawn Chorus Color Theme",
   "version": "0.1.0",
   "publisher": "timshamilov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shamilovtim/dawnchorus"
+  },
   "engines": {
     "vscode": "^1.39.0"
   },

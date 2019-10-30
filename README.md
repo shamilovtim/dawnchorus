@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="images/logo.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/shamilovtim/dawnchorus/master/images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Visual Studio Code color theme</h3>
