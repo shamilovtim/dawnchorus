@@ -26,9 +26,9 @@
     By: Tim Shamilov
 </p>
 
-## Goal
+## Idea
 
-Pretty pastels. A relaxing break from Monokai.
+Pretty pastels. A relaxing break from Monokai. Inspired by one of my favorite artists Jacques Greene.
 
 <!-- ABOUT THE PROJECT -->
 
