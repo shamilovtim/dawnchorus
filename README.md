@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/shamilovtim/dawnchorus/master/images/logo.png" alt="Logo">
   </a>
 
-  <h3 align="center">Visual Studio Code color theme</h3>
+  <h3 align="center">Visual Studio Code theme</h3>
   <p align="center">
     By: Tim Shamilov
 </p>
