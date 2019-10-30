@@ -64,5 +64,5 @@ Distributed under the MIT License.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[product-screenshot]: images/screenshot1.png
-[product-screenshot2]: images/screenshot2.png
+[product-screenshot]: https://raw.githubusercontent.com/shamilovtim/dawnchorus/master/images/screenshot1.png
+[product-screenshot2]: https://raw.githubusercontent.com/shamilovtim/dawnchorus/master/images/screenshot2.png
