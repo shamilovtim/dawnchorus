@@ -21,7 +21,7 @@
     By: Tim Shamilov
 </p>
 
-## Idea
+## Dawn Chorus
 
 Pretty pastels. A relaxing break from Monokai. Inspired by one of my favorite artists Jacques Greene.
 
