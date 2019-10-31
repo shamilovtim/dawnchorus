@@ -453,7 +453,7 @@
       "scope": ["punctuation.definition.tag.begin", "punctuation.definition.tag.end"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#AE81FF"
+        "foreground": "#FFF"
       }
     },
     {
@@ -517,7 +517,7 @@
       "scope": ["entity.name.tag"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#fff"
+        "foreground": "#ffa7c4"
       }
     },
     {
