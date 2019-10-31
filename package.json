@@ -1,8 +1,8 @@
 {
   "name": "dawnchorus",
   "displayName": "Dawn Chorus Color Theme",
-  "description": "Dawn Chorus Color Theme",
-  "version": "0.1.0",
+  "description": "Dawn Chorus - a pastel dark theme for visual studio code.",
+  "version": "1.0.0",
   "publisher": "timshamilov",
   "repository": {
     "type": "git",
