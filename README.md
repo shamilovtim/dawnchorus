@@ -29,7 +29,10 @@ Pretty pastels. A relaxing break from Monokai. Inspired by one of my favorite ar
 
 ## Screenshots
 
+TS / JS:
 ![Product Name Screen Shot][product-screenshot]
+
+TSX / JSX:
 ![Product Name Screen Shot][product-screenshot2]
 
 ## Status
