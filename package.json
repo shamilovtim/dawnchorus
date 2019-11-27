@@ -11,6 +11,16 @@
   "engines": {
     "vscode": "^1.39.0"
   },
+  "icon": "images/icon.png",
+  "bugs": {
+    "url": "https://github.com/shamilovtim/dawnchorus/issues",
+    "email": "shamilovtim@gmail.com"
+  },
+  "galleryBanner": {
+    "color": "#ffa7c4",
+    "theme": "dark"
+  },
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
